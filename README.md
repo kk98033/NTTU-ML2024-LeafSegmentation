@@ -28,8 +28,10 @@
 
 ### 使用訓練的模型
 
-訓練的模型位於 model/mask_rcnn_model_20240530_234508.pth
-執行「訓練模型」區塊上方的部分。
+1. 載入模型。
+   訓練過後的模型位於 ！[雲端硬碟](https://drive.google.com/file/d/1-0AgDn0SBEjls0VmpBleab3EBFzn9vwa/view?usp=sharing)
+2. 執行「訓練模型」區塊上方的部分。
+
 
 ### 訓練模型
 
